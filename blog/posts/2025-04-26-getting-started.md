@@ -1,18 +1,18 @@
 ---
 title: Getting Started with This Journal
-date: 2025-04-26
+date: 04/26/2026
 tags: [misc]
 ---
 
 # Getting Started with This Journal
 
-I've decided to keep a public record of my daily academic work. Not polished essays — just working notes, reading logs, half-formed ideas, and research updates.
+I've decided to keep a public record of my daily academic work. Not polished essays — just working notes, reading logs, half-formed ideas, and research updates. I tried local word document, notes, notion. Finally I want to upload my notes written in md on my website!
 
 ## Why a journal?
 
 A few reasons:
 
-- **Accountability.** Writing something down every day, even briefly, forces me to reflect on whether I actually did anything worth recording.
+- **Accountability.** Writing something down from time to time, even briefly, forces me to reflect on whether I actually did anything worth recording.
 - **Memory.** I forget papers I've read. I lose track of ideas I had. A searchable log helps.
 - **Thinking.** The act of writing clarifies thought in ways that internal monologue doesn't.
 
