@@ -1,6 +1,6 @@
 ---
 title: Getting Started with This Journal
-date: 04/26/2026
+date: 2026-04-26
 tags: [misc]
 ---
 
