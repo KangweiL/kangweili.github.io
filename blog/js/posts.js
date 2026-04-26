@@ -17,7 +17,7 @@ const POSTS = [
     excerpt: "Why I'm keeping a daily academic journal and how this site works."
   },
   {
-    file:    "posts/2026-04-26subgradient.md",
+    file:    "posts/2026-04-26-subgradient.md",
     title:   "Reading Notes: Subgradient methods",
     date:    "2026-04-26",
     tags:    ["reading", "Convex Optimization"],
