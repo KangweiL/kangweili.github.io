@@ -10,24 +10,24 @@
 // ─────────────────────────────────────────────────────────────
 const POSTS = [
   {
-    file:    "posts/2025-04-26-getting-started.md",
+    file:    "posts/2026-04-26-getting-started.md",
     title:   "Getting Started with This Journal",
     date:    "2026-04-26",
     tags:    ["misc"],
     excerpt: "Why I'm keeping a daily academic journal and how this site works."
   },
   {
-    file:    "posts/2025-04-25-reading-notes-kuhn.md",
-    title:   "Reading Notes: The Structure of Scientific Revolutions",
+    file:    "posts/2026-04-26subgradient.md",
+    title:   "Reading Notes: Subgradient methods",
     date:    "2026-04-26",
-    tags:    ["reading", "philosophy of science"],
-    excerpt: "Kuhn's notion of paradigm shifts feels more nuanced on a second reading — especially chapters 6–8."
+    tags:    ["reading", "Convex Optimization"],
+    excerpt: "Review the notes by Boyd in subgradient"
   },
   {
-    file:    "posts/2025-04-24-research-update.md",
+    file:    "posts/2026-04-26-research-update.md",
     title:   "Weekly Research Update",
-    date:    "2026-04-26",
+    date:    "2026-04-25",
     tags:    ["research"],
-    excerpt: "Progress on the literature review; three new papers to integrate; a methodological puzzle."
+    excerpt: "Progress on the literature review in minimax RL"
   }
 ];
